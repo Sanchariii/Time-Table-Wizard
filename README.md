@@ -22,12 +22,11 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 ```
 - Go to the directory
 - Run the index.html file
-- Schedule your new batch.
-- Add more and more batches.
+- Schedule your new class.
+- Add more and more classes.
 
 
-<h4> ScreenShots </h4>  
+<h4> Demo picture </h4>  
 
-![project-img](./classroom.png)
+![project-img](./class.png)
 
-### Happy Coding! 👩‍💻
