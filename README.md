@@ -28,3 +28,5 @@ A website that lets you write about all your classes at one place. You can also 
 
 ![project-img](./class.png)
 
+If you want to add any features on this project do let me know!!
+
