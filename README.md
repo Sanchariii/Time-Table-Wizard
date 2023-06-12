@@ -1,4 +1,4 @@
-## <a href="sanchariii.github.io/Time-Table-Wizard/" target="_blank">Welcome to the Classroom Website</a> 👩‍🏫
+## <a href="https://sanchariii.github.io/Time-Table-Wizard/" target="_blank">Welcome to the Classroom Website</a> 👩‍🏫
 [![Author](https://img.shields.io/badge/Author-Sanchari%20Ray-blue.svg)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/)
 
 A website that lets you write about all your classes at one place. You can also search by typing the name of the teacher if you have so many classes to take.
