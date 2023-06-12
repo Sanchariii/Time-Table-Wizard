@@ -1,5 +1,5 @@
 <h2> Welcome to the Classroom Website 👩‍🏫</h2>
-[![Author](https://img.shields.io/badge/Author-Sanchari%20Ray-blue.svg)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/)
+[Author](https://img.shields.io/badge/Author-Sanchari%20Ray-blue.svg)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/)
 
 <p>A website that lets you write about all your classes at one place. You can also search by typing the name of the teacher if you have so many classes to take.</p>
 
